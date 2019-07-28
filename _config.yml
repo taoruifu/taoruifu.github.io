@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+title: 一枝葡萄藤🌿
+SEOTitle: 我的博客 | BY Blog
+keyword: "BY, BY Blog, 我的博客, xxx, xxx, im, im, im"
+
+sidebar: true                           # whether or not using Sidebar.
